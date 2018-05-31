@@ -1,0 +1,50 @@
+.pinkycool {
+  position: sticky;
+    background: #E0E0E0;
+    overflow: hidden;
+    width: 100%;
+    height: 50em;
+    float: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+    
+  }
+#roundie-border{
+  border:5px, black;
+  color:whitesmoke;
+  background-color:#4e789c;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.textpad {
+   margin-left: 100px;
+   margin-right: 100px;
+   overflow: hidden;
+
+   }
+
+.title-centering {
+  text-align: center;
+}
+
+.this-font-is-neat {
+  font-family: 'Merriweather', serif;
+}
+
+#pinkycool-foot {
+  background: #4e789c;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Merriweather', serif;
+  color: whitesmoke;
+
+
+
+}
+
+.White-tite {color:whitesmoke;
+
+
+}
